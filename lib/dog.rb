@@ -14,4 +14,4 @@ class Dog
   end 
 end 
  
-snoopy.bread = "Beagle"
+snoopy.breed = "Beagle"
